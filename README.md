@@ -1,12 +1,12 @@
 <em>  # Codificador de texto  </em>
 
-*[Representacion encriptador de texto] <img src="./assets/encriptador.png">
+*[Representacion encriptador de texto] <img src="C:\Users\Asus\Downloads\codificador\assets">
 
 ## Descripción del proyecto
 Es un sencilla aplicación web la cual [realiza el cifrado de texto y luego descifra el mensaje tal como fue escrito en letras minusculas.]
 [Puede ser usado por cualquierl usuario debido a su interfaz grafica sencilla]
 
-<img src="./assets/codificador-previa.png">
+<img src="C:\Users\Asus\Downloads\codificador\assets">
 
 ## Funcionalidades
 
