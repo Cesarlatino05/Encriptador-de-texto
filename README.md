@@ -17,7 +17,7 @@ Es un sencilla aplicación web la cual [realiza el cifrado de texto y luego desc
 ### Paso Tres Desencriptar: 
 *[Sólo se requiere descifrar el texto que fue copiado a la entrada de texto y se pulsa el botón Desencriptar y se verá el totalmente legible y se podrá ver también al mismo tiempo el texto que había sido cifrado y hacer la comparacion.]
 
-<img src="./assets/Codificador.gif">
+<img src="C:\Users\Asus\Downloads\codificador\assets">
 
 ## Tecnologías Utilizadas
 *[Javascript ]
